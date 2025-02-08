@@ -6,7 +6,7 @@ This repository contains a malware analysis report conducted as part of the TCM 
 
 For a detailed analysis of the Dropper.DownloadFromURL malware, please refer to the following document:
 
-* [Dropper.DownloadFromURL_JN.md](Dropper.DownloadFromURL_JN.md)
+* [Dropper.DownloadFromURL_JN.md](Droppper.DownloadFromURL_JN.md)
 
 This document provides a comprehensive breakdown of the malware's behavior, functionality, and potential impact.
 
